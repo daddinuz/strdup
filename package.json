@@ -1,0 +1,17 @@
+{
+  "name": "strdup",
+  "version": "0.1.0",
+  "repo": "daddinuz/strdup",
+  "description": "Implements POSIX strdup (from string.h).",
+  "keywords": [
+    "string",
+    "memory",
+    "strdup"
+  ],
+  "license": "MIT",
+  "makefile": "strdup.cmake",
+  "src": [
+    "include/strdup/strdup.h",
+    "src/strdup.c"
+  ]
+}
